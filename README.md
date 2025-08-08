@@ -55,6 +55,7 @@ Para rodar este dashboard em sua máquina, siga os passos abaixo:
   * **Streamlit:** Framework para a criação do dashboard interativo.
   * **Pandas:** Biblioteca para manipulação e análise dos dados.
   * **Plotly Express:** Biblioteca para a criação de gráficos interativos e visualizações.
+  * Google Colab: Ambiente de desenvolvimento onde o projeto foi inicialmente prototipado. [Link para o Notebook](https://colab.research.google.com/drive/1ZivOv8UVt9MqFBRRtNW4d19uhGVyHyPY?usp=sharing)
 
 ### 🔗 Fonte dos Dados
 
